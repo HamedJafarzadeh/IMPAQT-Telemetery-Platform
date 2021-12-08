@@ -19,7 +19,7 @@ The files in this directory are as follow :
 
 - `Ocean noise at a Pier :` This dataset is a record of Ocean noise at 400kHz out of 42kHz filter with a passband of 6kHz. 
 
-If you found these datasets we would appreciate you cite our publications.
+If you found these datasets useful, we would appreciate you cite our publications.
 
 [IMPAQT Miniaturized Underwater Acoustic Telemetry Platform: Transmitter Node System Design](https://cora.ucc.ie/handle/10468/10896)
 
